@@ -1,6 +1,0 @@
-G:\C#\Karate_DataAccsess\bin\Debug\Karate_DataAccsess.dll
-G:\C#\Karate_DataAccsess\bin\Debug\Karate_DataAccsess.pdb
-G:\C#\Karate_DataAccsess\obj\Debug\Karate_DataAccsess.csproj.AssemblyReference.cache
-G:\C#\Karate_DataAccsess\obj\Debug\Karate_DataAccsess.csproj.CoreCompileInputs.cache
-G:\C#\Karate_DataAccsess\obj\Debug\Karate_DataAccsess.dll
-G:\C#\Karate_DataAccsess\obj\Debug\Karate_DataAccsess.pdb
